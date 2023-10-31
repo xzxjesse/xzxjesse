@@ -11,10 +11,6 @@ Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estag
 - **Bancos de Dados:** SQL
 - **Computação em Nuvem:** Microsoft Azure
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xzxjesse&show_icons=true&count_private=true&theme=dark)
-
 ## 🚀 Principais Linguagens
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xzxjesse&layout=compact&theme=dark)
