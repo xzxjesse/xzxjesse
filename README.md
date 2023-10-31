@@ -1,16 +1,21 @@
-### Hi there 👋
+# Jesse Eveline
 
-<!--
-**xzxjesse/xzxjesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estagiando no Ministério dos Transportes na área de Dados&Analytics.
 
-Here are some ideas to get you started:
+## 🛠️ Ferramentas e Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação:** C, Python, JavaScript
+- **Web Development:** HTML, CSS
+- **Design:** Figma, Canva
+- **Data Visualization:** PowerBI
+- **Bancos de Dados:** SQL
+- **Cloud Computing:** Microsoft Azure
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&count_private=true&theme=dark)
+
+## 🔗 Conecte-se comigo
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Jesse%20Eveline-blue)](https://www.linkedin.com/in/xzxjesse/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40seu_usuario-purple)](https://www.instagram.com/xzxjesse/)
