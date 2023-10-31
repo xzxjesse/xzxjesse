@@ -5,11 +5,11 @@ Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estag
 ## 🛠️ Ferramentas e Linguagens
 
 - **Linguagens de Programação:** C, Python, JavaScript
-- **Web Development:** HTML, CSS
+- **Desenvolvimento Web:** HTML, CSS
 - **Design:** Figma, Canva
-- **Data Visualization:** PowerBI
+- **Visualização de Dados:** PowerBI
 - **Bancos de Dados:** SQL
-- **Cloud Computing:** Microsoft Azure
+- **Computação em Nuvem:** Microsoft Azure
 
 ## 📈 Estatísticas do GitHub
 
