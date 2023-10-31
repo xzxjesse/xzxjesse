@@ -13,7 +13,8 @@ Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estag
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&count_private=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?xzxjesse=xzxjesse&show_icons=true&count_private=true&theme=dark
+)
 
 ## 🔗 Conecte-se comigo
 
