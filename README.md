@@ -18,4 +18,4 @@ Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estag
 ## 🔗 Conecte-se comigo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jesse%20Eveline-blue)](https://www.linkedin.com/in/xzxjesse/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40seu_usuario-purple)](https://www.instagram.com/xzxjesse)
+[![Instagram](https://img.shields.io/badge/Instagram-%40xzxjesse-purple)](https://www.instagram.com/xzxjesse)
