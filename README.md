@@ -15,6 +15,10 @@ Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estag
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xzxjesse&show_icons=true&count_private=true&theme=dark)
 
+## 🚀 Principais Linguagens
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xzxjesse&layout=compact&theme=dark)
+
 ## 🔗 Conecte-se comigo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jesse%20Eveline-blue)](https://www.linkedin.com/in/xzxjesse/)
