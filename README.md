@@ -1,6 +1,6 @@
 # Jesse Eveline
 
-Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estagiando no Ministério dos Transportes na área de Dados&Analytics.
+Atualmente, estou cursando Engenharia de Software na Universidade de Brasília-UnB e realizando um estágio no Ministério dos Transportes na área de Dados & Analytics.
 
 ## 🛠️ Ferramentas e Linguagens
 
@@ -15,7 +15,7 @@ Estou cursando Engenharia de Software pela Universidade de Brasília-UnB e estag
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xzxjesse&layout=compact&theme=dark)
 
-## 🔗 Conecte-se comigo
+## 🔗 Conecte-se Comigo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jesse%20Eveline-blue)](https://www.linkedin.com/in/xzxjesse/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40xzxjesse-purple)](https://www.instagram.com/xzxjesse)
+[![Instagram](https://img.shields.io/badge/Instagram-%40xzxjesse-purple)](https://www.instagram.com/xzxjesse/)
