@@ -4,7 +4,7 @@ Atualmente, estou cursando Engenharia de Software na Universidade de Brasília-U
 
 ## 🛠️ Ferramentas e Linguagens
 
-- **Linguagens de Programação:** C, Python, JavaScript
+- **Linguagens de Programação:** C, Python
 - **Desenvolvimento Web:** HTML, CSS
 - **Design:** Figma, Canva
 - **Visualização de Dados:** PowerBI
