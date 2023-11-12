@@ -1,6 +1,6 @@
 # Jesse Eveline
 
-Atualmente, estou cursando Engenharia de Software na Universidade de Brasília-UnB e realizando um estágio no Ministério dos Transportes na área de Dados & Analytics.
+Atualmente, estou cursando Engenharia de Software na Universidade de Brasília-UnB e realizando estágio no Ministério dos Transportes, na área de Dados & Analytics.
 
 ## 🛠️ Ferramentas e Linguagens
 
