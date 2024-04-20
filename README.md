@@ -1,6 +1,6 @@
 # Jesse Eveline
 
-Atualmente, estou cursando Engenharia de Software na Universidade de Brasília-UnB e realizando estágio no Ministério dos Transportes, na área de Dados & Analytics.
+Sou graduanda de Engenharia de Software pela UnB e realizo estágio no Ministério dos Transportes, na área de Dados & Analytics. Tenho conhecimento e prática em metodologias ágeis e comunicação eficaz. Sou desenvolvedora FullStack e tenho grande interesse na área de dados e de segurança da informação.
 
 ## Ferramentas e Linguagens
 
