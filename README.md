@@ -1,6 +1,6 @@
 # Jesse Eveline
 
-Sou graduanda de Engenharia de Software pela UnB e realizo estágio no Ministério dos Transportes, na área de Dados & Analytics. Tenho conhecimento e prática em metodologias ágeis e comunicação eficaz. Sou desenvolvedora FullStack e tenho grande interesse na área de dados e de segurança da informação.
+Sou graduanda de Engenharia de Software pela UnB, tenho conhecimento e prática em metodologias ágeis e comunicação eficaz. Sou desenvolvedora FullStack e tenho grande interesse na área de dados e de segurança da informação.
 
 ## Ferramentas e Linguagens
 
